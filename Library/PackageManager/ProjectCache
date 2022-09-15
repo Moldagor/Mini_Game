@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637988193463910011
-    m_Hash: 716719760
+      ticks: 637988213782321294
+    m_Hash: 1186286463
   m_LockFileStatus:
     m_FilePath: C:/Users/mdcb5/Documents/Trabajo/MiniGame/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637988193463990030
-    m_Hash: 1462008583
+      ticks: 637988213782331297
+    m_Hash: 3585994115
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
